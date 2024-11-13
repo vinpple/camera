@@ -1,5 +1,6 @@
 # camera
 
+
 https://github.com/vinpple/camera/blob/57c35f70c0b194b566a15b6bfc5ba6dbbf6a2861/main.cpp#L5C1-L27
 
 원본 영상 그레이 영상 이진영상을 30프레임 640x360 사이즈로 지정 후 모두 pc로 전송
